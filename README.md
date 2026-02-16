@@ -18,35 +18,13 @@ python --version
 
 ---
 
-## 📂 How to Get the Project
-
-### Option 1: Download ZIP from GitHub
-1. Open this repository on GitHub.
-2. Click the **Code** button.
-3. Click **Download ZIP**.
-4. Extract the ZIP file to any folder on your computer.
-
-### Option 2: Clone using Git
-1. Open terminal / command prompt.
-2. Run:
-
-git clone https://github.com/your-username/your-repo-name.git
-
-3. Go into the project folder:
-
-cd your-repo-name
-
----
-
 ## ▶️ How to Run the Game
 
 1. Open the project folder.
 2. Make sure the file `snake_game.py` is inside it.
 3. Open terminal / command prompt in that folder.
 4. Run the following command:
-
 python snake_game.py
-
 5. A new window will open with the Snake game.
 
 ---
